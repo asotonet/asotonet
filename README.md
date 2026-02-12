@@ -84,9 +84,9 @@ Plantillas y scripts de configuración para equipos de red multi-vendor. Estanda
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asotonet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com?user=asotonet&theme=tokyonight&hide_border=true&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asotonet&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+![asotonet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asotonet&theme=tokyo-night&hide_border=true)
 
 </div>
 
