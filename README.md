@@ -20,6 +20,15 @@ Creo en transformar procesos manuales en flujos automatizados, confiables y repr
 
 ---
 
+## 🎯 Actualmente
+
+- 🏗️ Construyendo plataformas de gestión con **FastAPI + React + Docker Compose**
+- 🔧 Automatizando infraestructura de red con **Ansible + MikroTik API**
+- ☁️ Desplegando servicios en la nube con **Terraform + Kubernetes**
+- 🔒 Investigando seguridad en protocolos de red y DNS
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -57,6 +66,18 @@ Creo en transformar procesos manuales en flujos automatizados, confiables y repr
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=asotonet&theme=tokyonight&hide_border=true&locale=es)
+
+![asotonet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asotonet&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
 ## 🚀 Proyectos Destacados
 
 ### [`terraform-do-kubernetes`](https://github.com/asotonet/terraform-do-kubernetes)
@@ -80,26 +101,6 @@ Plantillas y scripts de configuración para equipos de red multi-vendor. Estanda
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=asotonet&theme=tokyonight&hide_border=true&locale=es)
-
-![asotonet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asotonet&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Actualmente
-
-- 🏗️ Construyendo plataformas de gestión con **FastAPI + React + Docker Compose**
-- 🔧 Automatizando infraestructura de red con **Ansible + MikroTik API**
-- ☁️ Desplegando servicios en la nube con **Terraform + Kubernetes**
-- 🔒 Investigando seguridad en protocolos de red y DNS
-
----
 
 ## 🤝 Conectemos
 
